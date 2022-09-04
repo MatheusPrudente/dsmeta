@@ -23,10 +23,7 @@ Este projeto foi desenvolvido com as seguintes tecnologias :
   <li>VS Code</li>
   <li>Eclipse</li>
 </ul>
-<h1>
-  DevSuperior
-</h1>
-<ul>
-  <li>Link do Canal do DevSuperior : https://www.youtube.com/channel/UC3twHmWQwtqEO7u-gB_2f7g</li>
-</ul>
 
+## :desktop_computer: Projeto
+
+  Projeto foi desenvolvido durante o curso *__Semana Spring React__* do [DevSuperior](https://www.youtube.com/channel/UC3twHmWQwtqEO7u-gB_2f7g). A aplicação consiste em um log das vendas que possibilita notificar os vendedores que foram destaque via SMS 

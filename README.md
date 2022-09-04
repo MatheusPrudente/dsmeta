@@ -3,9 +3,18 @@
 <h1 align="center">
   Semana Spring React - DevSuperior
 </h1>
-<h1>
-  Tecnologias
-</h1>
+
+<p align="center">
+    <img src="https://img.shields.io/github/languages/count/MatheusPrudente/dsmeta"/>
+    <img src="https://img.shields.io/github/repo-size/MatheusPrudente/dsmeta"/>
+    <img src="https://img.shields.io/github/last-commit/MatheusPrudente/dsmeta"/>
+    <img src="https://img.shields.io/github/issues/MatheusPrudente/dsmeta"/>
+</p> 
+
+## 	:rocket: Tecnologias 
+
+Este projeto foi desenvolvido com as seguintes tecnologias : 
+
 <ul>
   <li>HTML 5</li>
   <li>CSS 3</li>
